@@ -1,0 +1,44 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.conda
+https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2020.1.1-0.conda
+https://repo.anaconda.com/pkgs/main/win-64/icc_rt-2019.0.0-h0cc432a_1.conda
+https://repo.anaconda.com/pkgs/main/win-64/intel-openmp-2020.0-166.conda
+https://repo.anaconda.com/pkgs/main/win-64/vs2015_runtime-14.16.27012-hf0eaf9b_1.conda
+https://repo.anaconda.com/pkgs/main/win-64/mkl-2020.0-166.conda
+https://repo.anaconda.com/pkgs/main/win-64/vc-14.1-h0510ff6_4.conda
+https://repo.anaconda.com/pkgs/main/win-64/openssl-1.1.1d-he774522_4.conda
+https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.31.1-he774522_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/zlib-1.2.11-h62dcd97_3.conda
+https://repo.anaconda.com/pkgs/main/win-64/python-3.7.6-h60c2a47_2.conda
+https://repo.anaconda.com/pkgs/main/win-64/certifi-2019.11.28-py37_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/et_xmlfile-1.0.1-py37_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/future-0.18.2-py37_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/jdcal-1.4.1-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/pycrypto-2.6.1-py37hfa6e2cd_9.conda
+https://repo.anaconda.com/pkgs/main/noarch/pytz-2019.3-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/pywin32-227-py37he774522_1.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/pywin32-ctypes-0.2.0-py37_1000.conda
+https://repo.anaconda.com/pkgs/main/win-64/six-1.14.0-py37_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py37_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/xlrd-1.2.0-py37_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/mkl-service-2.3.0-py37hb782905_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/openpyxl-3.0.3-py_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pefile-2019.4.18-py_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/python-dateutil-2.8.1-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/setuptools-45.2.0-py37_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/altgraph-0.16.1-py_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/joblib-0.14.1-py_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/numpy-base-1.18.1-py37hc3f5095_1.conda
+https://repo.anaconda.com/pkgs/main/win-64/wheel-0.34.2-py37_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/macholib-1.11-py_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/pip-20.0.2-py37_1.conda
+https://conda.anaconda.org/conda-forge/win-64/pyinstaller-3.6-py37h7602738_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/mkl_fft-1.0.15-py37h14836fe_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/mkl_random-1.1.0-py37h675688f_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/numpy-1.18.1-py37h93ca92e_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/pandas-0.25.3-py37ha925a31_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/scipy-1.4.1-py37h9439919_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/scikit-learn-0.22.1-py37h6288b17_0.conda

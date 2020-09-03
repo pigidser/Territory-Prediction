@@ -219,10 +219,10 @@ for r_idx, row in enumerate(rows, start_row):
          worksheet.cell(row=r_idx, column=c_idx, value=value)
     if type(row[2])==float and not pd.isnull(row[2]):
         proba = float(row[2])
-        if proba >= 0.75:
+        if proba >= 0.9:
             worksheet.cell(row=r_idx, column=39, value=row[1])
             worksheet.cell(row=r_idx, column=39).fill = PatternFill("solid", fgColor="00D328")
-        elif proba >= 0.5:
+        elif proba >= 0.8:
             worksheet.cell(row=r_idx, column=39, value=row[1])
             worksheet.cell(row=r_idx, column=39).fill = PatternFill("solid", fgColor="F9F405")
         else:
